@@ -23,7 +23,8 @@
 | [Datacamp: How to Build A CLI Todo App in Go](https://youtu.be/g16Zf0KQEWI?si=aeqsmdD4VWc_dxZ_)                                           | ✅       |
 | [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=dSYZc32YJO4fy4yW)                                           | ✅       |
 | [Datacamp: Upload a File to AWS S3 in GoLang](https://youtu.be/hNNB59bQDJ0?si=aoIJEWsuMv2N6Nma)                                           | ✅       |
-| [Datacamp: Go Programming Tutorial - 3 Beginner Projects](https://youtu.be/k_V5VvYSlS4?si=MdYBE-ZGnu-3-2wO)                               | ✅       |
+| [Datacamp: Go Programming Tutorial - 3 Beginner Projects](https://youtu.be/k_V5VvYSlS4?si=D8wtGUVp4q65MStH)                               | ✅       |
+| [How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                                     | ❌       |
 
 ## Infrastructure
 
