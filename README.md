@@ -36,9 +36,15 @@
 
 ## AI
 
-| Resource                                                                                                                | Progress |
-| ----------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Datacamp: 【ChatGPT】講座 システム設計・開発・学習アシスタントとしてフル活用し業務効率化 Udemy](https://www.udemy.com) | ✅       |
+| Resource                                                                                                                                                                                                                                                             | Progress |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Datacamp: 【ChatGPT】講座 システム設計・開発・学習アシスタントとしてフル活用し業務効率化 Udemy](https://www.udemy.com)                                                                                                                                              | ✅       |
+| [Datacamp: 【Cline】エンジニア向け！VS Code/Cursor でコーディングもコマンド打ちも自動運転してくれる開発支援 AI エージェント](https://youtu.be/Wsx_9-hpjd8?si=CdEM7w7bfW4yC4Pg)                                                                                       | ✅       |
+| [Datacamp: 【Bolt】環境構築からフロントエンドもバックエンドも AI が実装！Bolt.new で開発革命](https://youtu.be/0Ek01Smn7IU?si=LempDavoGKzFHQi6)                                                                                                                      | ✅       |
+| [Datacamp: 【Claude MCP】「データ連携の革命」と呼ばれる Claude MCP の設定手順を丁寧に解説しました!! PC ファイル操作/web 検索/Notion 連携の裏技まで一挙大公開！](https://youtu.be/34HnxzPLaiE?si=0HsLknE9aS9QgWpo)                                                    | ✅       |
+| [Datacamp: 【ChatGPT/Claude/Gimini/etc】【AI 駆動開発｜お弁当予約システム｜要件定義編】現役エンジニアが AI 活用してお弁当屋さんのリアルなお悩みを解決するために開発してみた結果](https://youtu.be/CdE5w4raJ6c?si=JuJ1H2FealWan5CE)                                   | ✅       |
+| [Datacamp: 【ChatGPT/Claude/Gimini/etc】AI 駆動開発｜お弁当予約システム｜設計編】要件を設計に落とし込むプロセス全公開！UI・DB・API 設計も…現役エンジニアが AI と設計した結果](https://youtu.be/wLzeSK1MNks?si=dYfgrDIZnrHEfjS3)                                      | ✅       |
+| [Datacamp: 【ChatGPT/Claude/Gimini/etc】AI 駆動開発｜お弁当予約システム｜実装編 ①-環境構築】現役エンジニアが設計通りに AI(RooCode)と Next.js 環境構築してみた！Github&Vercel 連携トラブル発生シーンもそのまま収録](https://youtu.be/k5tg_sPxIjE?si=53qTmwsGgwX7MNft) | ❌       |
 
 ## Linux
 
