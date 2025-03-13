@@ -25,8 +25,9 @@
 | [Datacamp: Upload a File to AWS S3 in GoLang](https://youtu.be/hNNB59bQDJ0?si=aoIJEWsuMv2N6Nma)                                           | ✅       |
 | [Datacamp: Go Programming Tutorial - 3 Beginner Projects](https://youtu.be/k_V5VvYSlS4?si=D8wtGUVp4q65MStH)                               | ✅       |
 | [How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                                     | ✅       |
+| [Snek のパワーを使用して Go を設定する、Go / Golang Viper チュートリアル](https://youtu.be/ggxGznvdKMo?si=Pw0RglB3WJ6VM8bm)               | ❌       |
 
-## Infrastructure
+## Infrastructure 筏
 
 | Resource                                                                                                                   | Progress |
 | -------------------------------------------------------------------------------------------------------------------------- | -------- |
