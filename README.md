@@ -12,7 +12,7 @@
 | [Datacamp: Tkinter ChatGPT App - Modern Tkinter GUI Chatbot [tutorial for beginners]](https://youtu.be/aRJXC8hJvrc?si=U13KpQx67WLycTHv)                        | ✅       |
 | [Datacamp: 現役シリコンバレーエンジニアが教えるアルゴリズム・データ構造・コーディングテスト Udemy](https://www.udemy.com)                                      | ❌       |
 
-## Golang Programing
+## Golang Programming
 
 | Resource                                                                                                                                  | Progress |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -24,10 +24,10 @@
 | [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=dSYZc32YJO4fy4yW)                                           | ✅       |
 | [Datacamp: Upload a File to AWS S3 in GoLang](https://youtu.be/hNNB59bQDJ0?si=aoIJEWsuMv2N6Nma)                                           | ✅       |
 | [Datacamp: Go Programming Tutorial - 3 Beginner Projects](https://youtu.be/k_V5VvYSlS4?si=D8wtGUVp4q65MStH)                               | ✅       |
-| [How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                                     | ✅       |
-| [Snek のパワーを使用して Go を設定する、Go / Golang Viper チュートリアル](https://youtu.be/ggxGznvdKMo?si=Pw0RglB3WJ6VM8bm)               | ❌       |
+| [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                           | ✅       |
+| [Snek のパワーを使用して Go を設定する、Go / Golang Viper チュートリアル](https://youtu.be/ggxGznvdKMo?si=Pw0RglB3WJ6VM8bm)               | ✅       |
 
-## Infrastructure 筏
+## Infrastructure
 
 | Resource                                                                                                                   | Progress |
 | -------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -65,5 +65,5 @@
 | ----------------------------------------------------------------------------------------------------- | -------- |
 | [Datacamp: 【ゼロからはじめる Docker によるアプリケーション実行環境構築 Udemy](https://www.udemy.com) | ✅       |
 
-✅ = Completed  
-❌ = Not Started / In Progress
+完了 = ✅
+未着手/進行中 = ❌
