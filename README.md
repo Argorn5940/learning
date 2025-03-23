@@ -26,7 +26,7 @@
 | [Datacamp: Go Programming Tutorial - 3 Beginner Projects](https://youtu.be/k_V5VvYSlS4?si=D8wtGUVp4q65MStH)                               | ✅       |
 | [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                           | ✅       |
 | [Datacamp:Snek のパワーを使用して Go を設定する、Go / Golang Viper チュートリアル](https://youtu.be/ggxGznvdKMo?si=Pw0RglB3WJ6VM8bm)      | ✅       |
-| [Datacamp: Golang - Master Config Management with Viper: Step-by-Step Guide](https://youtu.be/YbKsmFzAPSQ?si=QdXeaTtYrl4XUPub)            | ❌       |
+| [Datacamp: Golang - Master Config Management with Viper: Step-by-Step Guide](https://youtu.be/YbKsmFzAPSQ?si=QdXeaTtYrl4XUPub)            | ✅       |
 
 ## Infrastructure
 
