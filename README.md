@@ -14,19 +14,20 @@
 
 ## Golang Programming
 
-| Resource                                                                                                                                  | Progress |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Datacamp: 現役シリコンバレーエンジニアが教える Go 入門 + 応用でビットコインのシストレ Fintech アプリの開発 Udemy](https://www.udemy.com) | ✅       |
-| [Datacamp: Go 言語で学ぶ実践 gRPC 入門 Udemy](https://www.udemy.com)                                                                      | ✅       |
-| [Datacamp: Golang Tutorial for Beginners Full Go Course](https://youtu.be/yyUHQIec83I?si=Rb2fWX90ExmXXlXt)                                | ✅       |
-| [Datacamp: Full Golang Tutorial - Learn Go by Building a TodoList App](https://youtu.be/XCZWyN9ZbEQ?si=6P26H8X9GB6rkW6C)                  | ✅       |
-| [Datacamp: How to Build A CLI Todo App in Go](https://youtu.be/g16Zf0KQEWI?si=aeqsmdD4VWc_dxZ_)                                           | ✅       |
-| [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=dSYZc32YJO4fy4yW)                                           | ✅       |
-| [Datacamp: Upload a File to AWS S3 in GoLang](https://youtu.be/hNNB59bQDJ0?si=aoIJEWsuMv2N6Nma)                                           | ✅       |
-| [Datacamp: Go Programming Tutorial - 3 Beginner Projects](https://youtu.be/k_V5VvYSlS4?si=D8wtGUVp4q65MStH)                               | ✅       |
-| [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                           | ✅       |
-| [Datacamp:Snek のパワーを使用して Go を設定する、Go / Golang Viper チュートリアル](https://youtu.be/ggxGznvdKMo?si=Pw0RglB3WJ6VM8bm)      | ✅       |
-| [Datacamp: Golang - Master Config Management with Viper: Step-by-Step Guide](https://youtu.be/YbKsmFzAPSQ?si=QdXeaTtYrl4XUPub)            | ✅       |
+| Resource                                                                                                                                     | Progress |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Datacamp: 現役シリコンバレーエンジニアが教える Go 入門 + 応用でビットコインのシストレ Fintech アプリの開発 Udemy](https://www.udemy.com)    | ✅       |
+| [Datacamp: Go 言語で学ぶ実践 gRPC 入門 Udemy](https://www.udemy.com)                                                                         | ✅       |
+| [Datacamp: Golang Tutorial for Beginners Full Go Course](https://youtu.be/yyUHQIec83I?si=Rb2fWX90ExmXXlXt)                                   | ✅       |
+| [Datacamp: Full Golang Tutorial - Learn Go by Building a TodoList App](https://youtu.be/XCZWyN9ZbEQ?si=6P26H8X9GB6rkW6C)                     | ✅       |
+| [Datacamp: How to Build A CLI Todo App in Go](https://youtu.be/g16Zf0KQEWI?si=aeqsmdD4VWc_dxZ_)                                              | ✅       |
+| [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=dSYZc32YJO4fy4yW)                                              | ✅       |
+| [Datacamp: Upload a File to AWS S3 in GoLang](https://youtu.be/hNNB59bQDJ0?si=aoIJEWsuMv2N6Nma)                                              | ✅       |
+| [Datacamp: Go Programming Tutorial - 3 Beginner Projects](https://youtu.be/k_V5VvYSlS4?si=D8wtGUVp4q65MStH)                                  | ✅       |
+| [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                              | ✅       |
+| [Datacamp:Snek のパワーを使用して Go を設定する、Go / Golang Viper チュートリアル](https://youtu.be/ggxGznvdKMo?si=Pw0RglB3WJ6VM8bm)         | ✅       |
+| [Datacamp: Golang - Master Config Management with Viper: Step-by-Step Guide](https://youtu.be/YbKsmFzAPSQ?si=QdXeaTtYrl4XUPub)               | ✅       |
+| [Datacamp: Golang - Building a LLM (OpenAI) Command Line Chatbot with Cobra and LangChain](https://youtu.be/eoLnbIyhjPs?si=VxoBuJEo3SJHpUz6) | ❌       |
 
 ## Infrastructure
 
