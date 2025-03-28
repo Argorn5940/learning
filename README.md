@@ -47,7 +47,13 @@
 | [Datacamp: 【Claude MCP】「データ連携の革命」と呼ばれる Claude MCP の設定手順を丁寧に解説しました!! PC ファイル操作/web 検索/Notion 連携の裏技まで一挙大公開！](https://youtu.be/34HnxzPLaiE?si=0HsLknE9aS9QgWpo)                                                    | ✅       |
 | [Datacamp: 【ChatGPT/Claude/Gimini/etc】【AI 駆動開発｜お弁当予約システム｜要件定義編】現役エンジニアが AI 活用してお弁当屋さんのリアルなお悩みを解決するために開発してみた結果](https://youtu.be/CdE5w4raJ6c?si=JuJ1H2FealWan5CE)                                   | ✅       |
 | [Datacamp: 【ChatGPT/Claude/Gimini/etc】AI 駆動開発｜お弁当予約システム｜設計編】要件を設計に落とし込むプロセス全公開！UI・DB・API 設計も…現役エンジニアが AI と設計した結果](https://youtu.be/wLzeSK1MNks?si=dYfgrDIZnrHEfjS3)                                      | ✅       |
-| [Datacamp: 【ChatGPT/Claude/Gimini/etc】AI 駆動開発｜お弁当予約システム｜実装編 ①-環境構築】現役エンジニアが設計通りに AI(RooCode)と Next.js 環境構築してみた！Github&Vercel 連携トラブル発生シーンもそのまま収録](https://youtu.be/k5tg_sPxIjE?si=53qTmwsGgwX7MNft) | ❌       |
+| [Datacamp: 【ChatGPT/Claude/Gimini/etc】AI 駆動開発｜お弁当予約システム｜実装編 ①-環境構築】現役エンジニアが設計通りに AI(RooCode)と Next.js 環境構築してみた！Github&Vercel 連携トラブル発生シーンもそのまま収録](https://youtu.be/k5tg_sPxIjE?si=53qTmwsGgwX7MNft) | ✅       |
+| [Datacamp: AI 駆動開発｜お弁当予約システム｜実装編 ①-環境構築】現役エンジニアが設計通りに AI(RooCode)と Next.js 環境構築してみた！Github&Vercel 連携トラブル発生シーンもそのまま](https://youtu.be/k5tg_sPxIjE?si=EJhojKCTZWnAbC7-)                                  | ✅       |
+| [Datacamp:【AI 駆動開発｜お弁当予約システム｜実装編 ②-ドメイン・サーバー紐付けと DNS 設定】現役エンジニアがドメイン・サーバー紐付けで激レアトラブルに遭遇！問い合わせ対応から解決まで](https://youtu.be/cXj1hknCe7w?si=FQMPRKpyNqC1DJM7)                             | ✅       |
+| [Datacamp: 【AI 駆動開発｜お弁当予約システム｜実装編 ③-認証周り】Next.js x MongDB で 2 時間でログイン・メール認証機能を実装する全手順公開！](https://youtu.be/tEEwFCAw-kw?si=XM21aqN1ozxypk9d)                                                                       | ✅       |
+| [Datacamp: 【AI 駆動開発｜お弁当予約システム｜実装編 ④-住所 CRUD 管理】Cursor x 3.7sonnet でも解決できないバグ発生！どうするあきらパパ!?＆理解が進む「シミュレーションドラマ学習法」も大公開](https://youtu.be/5-jskFaNsiA?si=TO1Hg7ltT2rijmNR)                      | ✅       |
+| [Datacamp: 【コマンド駆動 AI ｜ Claude Code 検証】コマンドだけで完結する開発支援 AI「Claude Code」現役エンジニアが体験した「指示するだけ」の開発革命とは？](https://youtu.be/YdrVwhvijMA?si=cwsuCM0Sl6XxE_I8)                                                        | ✅       |
+| [Datacamp: 【AI エディタ大進化!｜ Cursor v0.46】Cursor の基本から Agent モード操作や Cursor MCP の使い方まで！現役エンジニアが神アプデした Cursor を優しく実況解説](https://youtu.be/qPZqNjBdL2A?si=0FR6PHAeFrNDfjtt)                                                | ❌       |
 
 ## Linux
 
