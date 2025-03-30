@@ -27,7 +27,8 @@
 | [Datacamp: How to write beautiful Golang CLI](https://youtu.be/SSRIn5DAmyw?si=ZyQUY6zl472RtNBI)                                              | ✅       |
 | [Datacamp:Snek のパワーを使用して Go を設定する、Go / Golang Viper チュートリアル](https://youtu.be/ggxGznvdKMo?si=Pw0RglB3WJ6VM8bm)         | ✅       |
 | [Datacamp: Golang - Master Config Management with Viper: Step-by-Step Guide](https://youtu.be/YbKsmFzAPSQ?si=QdXeaTtYrl4XUPub)               | ✅       |
-| [Datacamp: Golang - Building a LLM (OpenAI) Command Line Chatbot with Cobra and LangChain](https://youtu.be/eoLnbIyhjPs?si=VxoBuJEo3SJHpUz6) | ❌       |
+| [Datacamp: Golang - Building a LLM (OpenAI) Command Line Chatbot with Cobra and LangChain](https://youtu.be/eoLnbIyhjPs?si=VxoBuJEo3SJHpUz6) | ✅       |
+| [Datacamp: Golang - Cobra CLI Explained: Build Advanced CLI Apps](https://youtu.be/WlStlWsEl70?si=LLQMIaGoo8sZPEi3)                          | ❌       |
 
 ## Infrastructure
 
