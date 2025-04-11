@@ -57,7 +57,7 @@
 | [Datacamp: 【AI 駆動開発｜お弁当予約システム｜実装編 ④-住所 CRUD 管理】Cursor x 3.7sonnet でも解決できないバグ発生！どうするあきらパパ!?＆理解が進む「シミュレーションドラマ学習法」も大公開](https://youtu.be/5-jskFaNsiA?si=TO1Hg7ltT2rijmNR)                      | ✅       |
 | [Datacamp: 【コマンド駆動 AI ｜ Claude Code 検証】コマンドだけで完結する開発支援 AI「Claude Code」現役エンジニアが体験した「指示するだけ」の開発革命とは？](https://youtu.be/YdrVwhvijMA?si=cwsuCM0Sl6XxE_I8)                                                        | ✅       |
 | [Datacamp: 【AI エディタ大進化!｜ Cursor v0.46】Cursor の基本から Agent モード操作や Cursor MCP の使い方まで！現役エンジニアが神アプデした Cursor を優しく実況解説](https://youtu.be/qPZqNjBdL2A?si=0FR6PHAeFrNDfjtt)                                                | ✅       |
-| [Datacamp: 【【Cursor 入門】初心者 OK！AI を使ってアプリ開発する方法を全て解説します ~AI 駆動開発入門~](https://youtu.be/rAsovLKXCXo?si=2idk8vXeHXtdPItn)                                                                                                            | ✅       |
+| [Datacamp: 【【Cursor 入門】初心者 OK！AI を使ってアプリ開発する方法を全て解説します AI 駆動開発入門~](https://youtu.be/rAsovLKXCXo?si=2idk8vXeHXtdPItn)                                                                                                             | ✅       |
 
 ## Linux
 
