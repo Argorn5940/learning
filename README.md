@@ -32,7 +32,7 @@
 | [Datacamp: Golang - Cobra CLI Explained: Build Advanced CLI Apps](https://youtu.be/WlStlWsEl70?si=LLQMIaGoo8sZPEi3)                                               | ✅       |
 | [Datacamp: Golang - JDeveloping a Terminal App in Go with Bubble Tea](https://youtu.be/_gzypL-Qv-g?si=8W80Zv-sCY-3Dr4r)                                           | ✅       |
 | [Datacamp: Understanding the Bubble Tea TUI Framework Architecture for Building Terminal Apps in Go/Golang](https://youtu.be/ERaZi0YvBRs?si=C4s2E8dKk904woEv)     | ✅       |
-| [Datacamp: How to Build a Terminal App in Go/Golang with the Bubble Tea TUI Framework and Urban Dictionary API](https://youtu.be/DEeFnVj3cv8?si=fu01d8_7IaU1iZql) | ❌       |
+| [Datacamp: How to Build a Terminal App in Go/Golang with the Bubble Tea TUI Framework and Urban Dictionary API](https://youtu.be/DEeFnVj3cv8?si=fu01d8_7IaU1iZql) | ✅       |
 
 ## Infrastructure
 
@@ -73,7 +73,7 @@
 | Resource                                                                                                                                   | Progress |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 | [Datacamp: もう絶対に忘れない Git・GitHub【Git 100 本ノック+300 枚の図解+丁寧な解説で長期記憶に焼き付けろ！】Udemy](https://www.udemy.com) | ✅       |
-| [Datacamp: GitHub Actions を使いこなせ！](https://youtu.be/sx-aIgP2S00?si=qNoQ0gafEkpcRZS2)                                                | ❌       |
+| [Datacamp: GitHub Actions を使いこなせ！](https://youtu.be/sx-aIgP2S00?si=qNoQ0gafEkpcRZS2)                                                | ✅       |
 
 ## Docker
 
