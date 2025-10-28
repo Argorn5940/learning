@@ -9,9 +9,9 @@
 | [Datacamp: Automate Excel and Word with Python - Excel Sheet to Word Docs [openpyxl, docxtpl]](https://youtu.be/6A-S91rqBho?si=au6UXWrHcSy-2Lq4)               | ✅       |
 | [Datacamp: Python Excel Data Entry Form with Tkinter tutorial for beginners - Python GUI project [openpyxl]](https://youtu.be/fvIThtPt6Nc?si=vrLDAbTyriDRplGy) | ✅       |
 | [Datacamp: python SQLite Data Entry Form with Tkinter tutorial for beginners - Python GUI project](https://youtu.be/gdDI_GhIRGo?si=u0PZtOq8k-YzwbVL)           | ✅       |
-| [Datacamp: Tkinter ChatGPT App - Modern Tkinter GUI Chatbot [tutorial for beginners]](https://youtu.be/aRJXC8hJvrc?si=U13KpQx67WLycTHv)                        | ✅       |
+| [Datacamp: Tkinter ChatGPT App - Modern Tkinter GUI Chatbot [tutorial for beginners]](https://youtu.be/aRJXC8hJvrc?si=U13KpQx67WLycTHv)                        |✅        |
 | [Datacamp: 現役シリコンバレーエンジニアが教えるアルゴリズム・データ構造・コーディングテスト Udemy](https://www.udemy.com)                                      | ❌       |
-| [Datacamp: Python のテストライブラリ Pytest と GitHub Actions を基礎から学び、CI の基礎を身につけよう！ Udemy](https://www.udemy.com)                          | ❌       |
+| [Datacamp: Python のテストライブラリ Pytest と GitHub Actions を基礎から学び、CI の基礎を身につけよう！ Udemy](https://www.udemy.com)                          |   ✅     |
 
 ## Golang Programming
 
